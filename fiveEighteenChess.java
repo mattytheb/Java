@@ -1,3 +1,5 @@
+//14th June, 2018
+//Draw chessborad ad number of columns as a comand line args
 public class fiveEighteenChess
 {
       public static void main(String[] args)
