@@ -1,3 +1,5 @@
+//Use Std libraries from https://introcs.cs.princeton.edu/java/stdlib/
+//Download and unpack in folder using % jar xf stdlib.jar command
 //14th June, 2018
 //Draw chessborad ad number of columns as a comand line args
 public class ChessBoard
