@@ -1,4 +1,9 @@
-public class fiveNineteenCircles
+//Write a program that takes as command-line arguments an interger n and a floating-point number p (0-1), 
+//plots n equally spaced points on the circmference of a circle, and then with probability p for each pair of points, 
+//draws a line connecting them
+//18th, June 2018
+
+public class PlotLinesInCircle
 {
       public static void main(String[] args)
       {
